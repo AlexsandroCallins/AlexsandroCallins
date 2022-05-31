@@ -14,9 +14,10 @@
   <img align="center" alt="Alex-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
           
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/912465218431500301/981278616660889641/download20220502154052.png">
+  <!--
+  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/912465218431500301/981278616660889641/download20220502154052.png">
 </div>
-  
+ -->
   ##
 
 
