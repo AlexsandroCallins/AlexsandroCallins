@@ -1,4 +1,4 @@
-## Olá, eu sou o Alexsandro Callins... universitário de Ciência da Computação!
+## Olá, eu sou o Alexsandro Callins... Universitário de Ciência da Computação!
 
 <div align="center">
   <a href="https://github.com/alexsandrocallins">
