@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá, eu sou o Alexsandro Callins... universitário de Ciência da Computação!
 
 <div align="center">
   <a href="https://github.com/alexsandrocallins">
