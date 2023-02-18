@@ -35,11 +35,11 @@
   <code><img width="10%" alt="Alex-Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  </div>
  
-<div align="center">
+<!--<div align="center">
   <br>
     <p align="centre"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlexsandroCallins}/count.svg" /></p> 
   <br>
-</div>
+</div>-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=120&section=footer"/>
