@@ -7,8 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroCallins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrocallins&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=AlexsandroCallins&theme=gotham&hide_border=true&area=true)-->
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
