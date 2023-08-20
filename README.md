@@ -19,7 +19,7 @@
   <a href = "mailto:alexsandromnc@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="www.linkedin.com/in/alexsandro-monteiro-nascimento-callins-36857b202" target="_blank">
+  <a href="linkedin.com/in/alexsandro-monteiro-nascimento-callins-36857b202" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
